@@ -39,7 +39,7 @@ _____
 
 _____
 
-### :heavy_check_mark: <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="60" img src="media/logo/qa_guru_logo.jpg" width="60"/></a> ](https://qa.guru/)</a> 
+### :heavy_check_mark: <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="100" img src="media/logo/qaGuruHD.jpg" width="100"/></a> ](https://qa.guru/)</a> 
 
 
 
