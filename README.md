@@ -23,7 +23,7 @@
   
 -  Ручное тестирование (оформление тестовой документации)
 -  Автоматизированное тестирование на Java (IDEA, Gradle, JUni5, faker, allure)
--  Ручное Rest-API (Postman)
+-  Ручное тестирование Rest-API (Postman)
 -  Автоматизированное тестироавние Rest-API (Rest-assured, lombock)
 -  Запросы на языке SQL
 -  Allure
