@@ -35,9 +35,9 @@
 -  Запросы различной сложности на языке SQL
 -  MindMap по проекту
 
-### <img alt="QAGURU" height="35" img src="media/logo/qa_guru_logo.jpg" width="35"/></a><a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
+### <a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
 
-
+<img align="center" alt="QAGURU" height="35" img src="media/logo/qa_guru_logo.jpg" width="35"/></a>
  |      Project name               |                   GitHub links                                   
  |-------------------------------- |-------------------------------------------------------|
  |         UI tests                |https://github.com/Deve1enok/exampleHabrCareerPageTest |  
