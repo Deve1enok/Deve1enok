@@ -36,7 +36,7 @@
 -  MindMap по проекту
 
 
-### <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="35" img src="media/logo/qa_guru_logo.jpg" width="45"/></a> ](https://qa.guru/)</a> 
+### <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="35" img src="media/logo/qa_guru_logo.jpg" width="35"/></a> ](https://qa.guru/)</a> 
 
 
 
