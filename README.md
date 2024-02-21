@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" height= "175" width="450" title="gifM" src="media/logo/matrixGif.gif"> </p>
+![qaGuruIc](https://github.com/Deve1enok/Deve1enokProfile/assets/139620575/e1f9801b-20d8-4951-bd39-3422f558186b)<p align="center"> <img align="center" height= "175" width="450" title="gifM" src="media/logo/matrixGif.gif"> </p>
 
 
 <p align="center"> 
@@ -35,7 +35,7 @@
 -  Запросы различной сложности на языке SQL
 -  MindMap по проекту
 
-### <img alt="QAGURU" height="50" img src="media/logo/qa_guru_logo.jpg" width="50"/></a><a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
+### <img alt="QAGURU" height="50" img src="media/logo/qaGuruIc.jpg" width="50"/></a><a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
 
 
  |      Project name               |                   GitHub links                                   
