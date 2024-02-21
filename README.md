@@ -21,7 +21,7 @@
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
   
--  Ручное тестирование
+-  Ручное тестирование (оформление тестовой документации)
 -  Автоматизированное тестирование на Java (IDEA, Gradle, JUni5, faker, allure)
 -  Ручное Rest-API (Postman)
 -  Автоматизированное тестироавние Rest-API (Rest-assured, lombock)
