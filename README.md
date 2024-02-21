@@ -5,11 +5,11 @@
  <img src="media/logo/readme-typing-svg.demolab.svg"></p>
 
 
-
 ### :clipboard: О себе:
-В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. А также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
+В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. А также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. 
+На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.
 
-
+_____
 
 
 ### :computer: Мой стек:
@@ -26,7 +26,9 @@
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
 
-### :computer: Мои навыки:
+_____
+
+### :bed: Мои навыки:
 
 -  Ручное тестирование (декомпозиция продукта, применение техник тест-дизайна, оформление тестовой документации)
 -  Ручное тестирование Rest-API (Postman)
@@ -35,16 +37,22 @@
 -  Запросы различной сложности на языке SQL
 -  MindMap по проекту
 
-### <img alt="QAGURU" height="50" img src="media/logo/qa_guru_logo.jpg" width="50"/></a><a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
+_____
+
+### :heavy_check_mark: <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="60" img src="media/logo/qa_guru_logo.jpg" width="60"/></a> ](https://qa.guru/)</a> 
 
 
- |      Project name               |                   GitHub links                                   
+
+ |      Project name               |                   GitHub links                        |           
  |-------------------------------- |-------------------------------------------------------|
  |         UI tests                |https://github.com/Deve1enok/exampleHabrCareerPageTest |  
  |        API tests                |https://github.com/Deve1enok/reqres_api_tests23        |  
  |       Mobile tests              |https://github.com/Deve1enok/mobile_browserstack_test23|  
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deve1enok&show_icons=true&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=Deve1enok)
+_____
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deve1enok&show_icons=true&theme=dark)  ![](https://komarev.com/ghpvc/?username=Deve1enok)
+
+
