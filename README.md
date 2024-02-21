@@ -5,11 +5,10 @@
  <img src="media/logo/readme-typing-svg.demolab.svg"></p>
 
 
-
 ### :clipboard: О себе:
 В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. А также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
 
-
+_____
 
 
 ### :computer: Мой стек:
@@ -26,6 +25,8 @@
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
 
+_____
+
 ### :bed: Мои навыки:
 
 -  Ручное тестирование (декомпозиция продукта, применение техник тест-дизайна, оформление тестовой документации)
@@ -35,6 +36,7 @@
 -  Запросы различной сложности на языке SQL
 -  MindMap по проекту
 
+_____
 
 ### :heavy_check_mark: <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="60" img src="media/logo/qa_guru_logo.jpg" width="60"/></a> ](https://qa.guru/)</a> 
 
