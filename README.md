@@ -1,11 +1,15 @@
+<p align="center"> <img align="center" height= "175" width="450" title="gifM" src="media/logo/matrixGif.gif"> </p>
+
+<p align="center"> 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=5000&color=0EF74A&background=6FFFBF00&center=true&vCenter=true&random=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%94%D0%B8%D0%BD%D0%B0%D1%80!)](https://git.io/typing-svg) 
+</p>
 
 
 ### :clipboard: О себе:
-В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. Также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
+В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. А также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
 
-<p align="right">
-<a <img height= "40" width="40" title="gifM" src="media/logo/logo/matrixGif.gif"></a>
+
 
 
 ### :computer: Мой стек:
@@ -22,9 +26,9 @@
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
   
--  Ручное тестирование
+-  Ручное тестирование (оформление тестовой документации)
 -  Автоматизированное тестирование на Java (IDEA, Gradle, JUni5, faker, allure)
--  Ручное Rest-API (Postman)
+-  Ручное тестирование Rest-API (Postman)
 -  Автоматизированное тестироавние Rest-API (Rest-assured, lombock)
 -  Запросы на языке SQL
 -  Allure
