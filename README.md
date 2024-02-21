@@ -25,16 +25,25 @@
 <a href="https://www.atlassian.com/ru/software/jira/"><img height= "40" width="40" title="Jira" src="media/logo/Jira.svg"></a>
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
-  
--  Ручное тестирование (оформление тестовой документации)
--  Автоматизированное тестирование на Java (IDEA, Gradle, JUni5, faker, allure)
+
+### :computer: Мои навыки:
+
+-  Ручное тестирование (декомпозиция продукта, применение техник тест-дизайна, оформление тестовой документации)
 -  Ручное тестирование Rest-API (Postman)
--  Автоматизированное тестироавние Rest-API (Rest-assured, lombock)
--  Запросы на языке SQL
--  Allure
--  Jenkins
--  Allure-TestOps
--  Jira
+-  Автоматизированное UI тестирование на Java (IDEA, Gradle, JUni5, Faker, Allure, Jira, Jenkins)
+-  Автоматизированное тестироавние Rest-API (Rest-assured, Lombock)
+-  Запросы различной сложности на языке SQL
+-  MindMap по проекту
+
+### <img alt="QAGURU" height="50" img src="media/logo/qa_guru_logo.jpg" width="50"/></a><a name="Диплом"></a>Дипломный проект для [Qa.Guru](https://qa.guru/)</a>
+
+
+ |      Project name               |                   GitHub links                                   
+ |-------------------------------- |-------------------------------------------------------|
+ |         UI tests                |https://github.com/Deve1enok/exampleHabrCareerPageTest |  
+ |        API tests                |https://github.com/Deve1enok/reqres_api_tests23        |  
+ |       Mobile tests              |https://github.com/Deve1enok/mobile_browserstack_test23|  
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deve1enok&show_icons=true&theme=dark)
 
