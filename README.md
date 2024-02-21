@@ -26,7 +26,7 @@
 <a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
 
-### :computer: Мои навыки:
+### :bed: Мои навыки:
 
 -  Ручное тестирование (декомпозиция продукта, применение техник тест-дизайна, оформление тестовой документации)
 -  Ручное тестирование Rest-API (Postman)
@@ -36,7 +36,7 @@
 -  MindMap по проекту
 
 
-### <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="60" img src="media/logo/qa_guru_logo.jpg" width="60"/></a> ](https://qa.guru/)</a> 
+### :heavy_check_mark: <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="60" img src="media/logo/qa_guru_logo.jpg" width="60"/></a> ](https://qa.guru/)</a> 
 
 
 
