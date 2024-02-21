@@ -1,4 +1,4 @@
-![qaGuruIc](https://github.com/Deve1enok/Deve1enokProfile/assets/139620575/e1f9801b-20d8-4951-bd39-3422f558186b)<p align="center"> <img align="center" height= "175" width="450" title="gifM" src="media/logo/matrixGif.gif"> </p>
+<p align="center"> <img align="center" height= "175" width="450" title="gifM" src="media/logo/matrixGif.gif"> </p>
 
 
 <p align="center"> 
