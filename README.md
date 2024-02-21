@@ -4,8 +4,24 @@
 ### :clipboard: О себе:
 В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. Также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
 
+<p align="right">
+<a <img height= "40" width="40" title="gifM" src="media/logo/logo/matrixGif.gif"></a>
+
 
 ### :computer: Мой стек:
+<p align="center">
+<a href="https://www.java.com/"><img height= "40" width="40" title="Java" src="media/logo/java-original.svg"></a>
+<a href="https://selenide.org/"><img height= "40" width="40" title="Selenide" src="media/logo/Selenide.svg"></a>
+<a href="https://github.com/allure-framework/allure2"><img height= "40" width="40" title="Allure Report" src="media/logo/Allure.svg"></a>
+<a href="https://qameta.io/"><img height= "40" width="40" title="Allure TestOps" src="media/logo/Allure_TO.svg"></a>
+<a href="https://gradle.org/"><img height= "40" width="40" title="Gradle" src="media/logo/gradle-plain-wordmark.svg"></a>
+<a href="https://github.com/"><img height= "40" width="40" title="GitHub" src="media/logo/github-original-wordmark.svg"></a>
+<a href="https://www.jenkins.io/"><img height= "40" width="40" title="Jenkins" src="media/logo/jenkins-original.svg"></a>
+<a href="https://web.telegram.org/a/"><img height= "40" width="40" title="Telegram" src="media/logo/Telegram.svg"></a>
+<a href="https://www.atlassian.com/ru/software/jira/"><img height= "40" width="40" title="Jira" src="media/logo/Jira.svg"></a>
+<a href="https://junit.org/junit5/"><img height= "40" width="40" title="JUni5" src="media/logo/JUnit5.svg"></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/"><img height= "40" width="40" title="IDEA" src="media/logo/Idea.svg"></a>
+  
 -  Ручное тестирование
 -  Автоматизированное тестирование на Java (IDEA, Gradle, JUni5, faker, allure)
 -  Ручное Rest-API (Postman)
