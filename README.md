@@ -4,8 +4,8 @@
 ### :clipboard: О себе:
 В 2019-году получил высшее образование в нефтяной сфере, но решил выбрать другой путь развития. Также окончил курсы по ручному/автоматизированному тестированию, тестированию API и язык SQL. На данный момент, я активно ищу работу/стажировку на позицию QA/AQA Intern/Junior. Изучаю тестирование в любом контексте, люблю спорт и PC.*
 
-<p align="right">
-<a <img height= "40" width="40" title="gifM" src="media/logo/matrixGif.gif"></a>
+
+<a <img align="right" height= "40" width="40" title="gifM" src="media/logo/matrixGif.gif"></a>
 
 
 ### :computer: Мой стек:
