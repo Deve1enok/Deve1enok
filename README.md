@@ -36,7 +36,7 @@
 -  MindMap по проекту
 
 
-### <p align="left"> <img src="media/logo/Idea.svg" title="QA Guru" width="40" height="40"/></p> Дипломный проект для [Qa.Guru](https://qa.guru/)
+### <p align="left"> <img src="media/logo/qa_guru_logo.jpg" title="QA Guru" width="25" height="25"/></p> Дипломный проект для [Qa.Guru](https://qa.guru/)
 
  |      Project name               |                   GitHub links                                   
  |-------------------------------- |-------------------------------------------------------|
