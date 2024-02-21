@@ -35,7 +35,9 @@
 -  Запросы различной сложности на языке SQL
 -  MindMap по проекту
 
+<p align="left">
 ### <a name="Диплом"></a>Дипломный проект для [<img align="center" alt="QAGURU" height="45" img src="media/logo/qa_guru_logo.jpg" width="45"/></a> ](https://qa.guru/)</a> 
+</p>
 
 
  |      Project name               |                   GitHub links                        |           
