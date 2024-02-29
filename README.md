@@ -45,10 +45,9 @@ _____
 
  |      Project name               |                   GitHub links                        |           
  |-------------------------------- |-------------------------------------------------------|
- |         UI tests                |https://github.com/Deve1enok/exampleHabrCareerPageTest |  
+ |         UI tests                |[UI tests](https://github.com/Deve1enok/exampleHabrCareerPageTest) |  
  |        API tests                |https://github.com/Deve1enok/reqres_api_tests23        |  
  |       Mobile tests              |https://github.com/Deve1enok/mobile_browserstack_test23|  
-
 
 _____
 
